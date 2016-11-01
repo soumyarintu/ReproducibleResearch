@@ -1,2 +1,2 @@
 # ReproducibleResearch
-My Assignments from Rep research in Coursera
+My Assignments from Rep research in Coursera. Soumya Ranjan Das.
